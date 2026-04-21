@@ -32,7 +32,7 @@ We're technology-agnostic and pick the right tool for the job.
 | **Frontend** | React, TypeScript, Next.js, Tailwind CSS |
 | **AI / ML** | LLMs, RAG pipelines, model fine-tuning, AI integrations |
 | **Mobile** | React Native, Flutter |
-| **DevOps / Cloud** | AWS, GCP, Docker, Kubernetes, CI/CD |
+| **DevOps / Cloud** | AZURE , Docker, Kubernetes, CI/CD |
 | **Data** | PostgreSQL, MongoDB, Redis, ETL pipelines |
 
 ---
@@ -64,6 +64,6 @@ let's talk.
 
 *Built with precision. Delivered with purpose.*
 
-**© Zeuscodegrid**
+**© Zeuscodegrid - Zeus Solutions Inc.**
 
 </div>
